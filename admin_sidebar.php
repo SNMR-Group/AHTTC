@@ -121,7 +121,7 @@
 </div>
 
 <!-- Mobile Toggle Button (Place this in your header) -->
-<button class="mobile-toggle" onclick="toggleSidebar()" style="display: none;">
+<button class="mobile-toggle" onclick="toggleSidebar()">
     <i class="fas fa-bars"></i>
 </button>
 
@@ -129,6 +129,14 @@
 <div class="sidebar-overlay" onclick="closeSidebar()"></div>
 
 <style>
+
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 /* Sidebar Styles */
 .sidebar {
     position: fixed;
@@ -337,6 +345,11 @@
     border-radius: 12px;
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1001;
+    display: none;
 }
 
 .mobile-toggle:hover {
@@ -360,16 +373,18 @@
 }
 
 .sidebar-overlay.active {
+    display: block;
     opacity: 1;
 }
 
-/* Responsive Design */
-@media (max-width: 1024px) {
+/* Desktop styles */
+@media (min-width: 769px) {
     .sidebar {
-        width: 260px;
+        transform: translateX(0) !important;
     }
 }
 
+/* Responsive Design */
 @media (max-width: 768px) {
     .mobile-toggle {
         display: block !important;
@@ -442,6 +457,7 @@
         opacity: 1;
     }
 }
+
 </style>
 
 <script>
