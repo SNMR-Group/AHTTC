@@ -32,7 +32,7 @@
         <div class="nav-item">
             <a href="admin_event_gallery.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-calendar-alt"></i>
+                    <i class="fas fa-calendar-check"></i>
                 </div>
                 <span class="nav-text">Event Gallery</span>
             </a>
@@ -41,7 +41,7 @@
         <div class="nav-item">
             <a href="admin_notices.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-bullhorn"></i>
+                    <i class="fas fa-bell"></i>
                 </div>
                 <span class="nav-text">Notice</span>
             </a>
@@ -50,7 +50,7 @@
         <div class="nav-item">
             <a href="admin_all_notices.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-list-alt"></i>
+                    <i class="fas fa-clipboard-list"></i>
                 </div>
                 <span class="nav-text">All Notices</span>
             </a>
@@ -68,7 +68,7 @@
         <div class="nav-item">
             <a href="admin_non_teaching.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-users"></i>
+                    <i class="fas fa-user-tie"></i>
                 </div>
                 <span class="nav-text">Non Teaching Staffs</span>
             </a>
@@ -77,7 +77,7 @@
         <div class="nav-item">
             <a href="admin_ebook.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-book-open"></i>
+                    <i class="fas fa-book-reader"></i>
                 </div>
                 <span class="nav-text">E-book</span>
             </a>
@@ -86,7 +86,7 @@
         <div class="nav-item">
             <a href="admin_syllabus.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-file-alt"></i>
+                    <i class="fas fa-file-contract"></i>
                 </div>
                 <span class="nav-text">Syllabus</span>
             </a>
@@ -95,7 +95,7 @@
         <div class="nav-item">
             <a href="admin_naac.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-award"></i>
+                    <i class="fas fa-medal"></i>
                 </div>
                 <span class="nav-text">NAAC</span>
             </a>
@@ -104,7 +104,7 @@
         <div class="nav-item">
             <a href="admin_download.php" class="nav-link">
                 <div class="nav-icon">
-                    <i class="fas fa-download"></i>
+                    <i class="fas fa-cloud-download-alt"></i>
                 </div>
                 <span class="nav-text">Download Documents</span>
             </a>
@@ -136,7 +136,7 @@
     top: 0;
     width: 280px;
     height: 100vh;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
     backdrop-filter: blur(20px);
     border-right: 1px solid rgba(255, 255, 255, 0.1);
     display: flex;
@@ -328,7 +328,7 @@
 
 /* Mobile Toggle Button */
 .mobile-toggle {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
     border: none;
     color: white;
     font-size: 1.5rem;
