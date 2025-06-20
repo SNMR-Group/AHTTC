@@ -59,52 +59,7 @@ td {
     padding: 8px;
 }
 
-.side-menu {
-    position: fixed;
-    background: #f05462;
-    width: 20vw;
-    height: 100vh; /* Ensure it takes up the full viewport height */
-    display: flex;
-    flex-direction: column;
-    overflow-y: auto; /* Enable vertical scrolling when content overflows */
-}
 
-
-.side-menu .brand-name {
-    height: 10vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.side-menu ul li {
-    font-size: 20px;
-    padding: 10px 40px;
-    color: white;
-    display: flex;
-    align-items: center;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.side-menu ul li:hover,
-.side-menu ul li.active {
-    background-color: white;
-    color: #f05462;
-}
-
-.side-menu ul li:hover img,
-.side-menu ul li.active img {
-    filter: invert(1);
-}
-.side-menu ul li a:hover{
-    color:#444;
-}
-
-.side-menu ul li a {
-    color: white;
-    font-weight: 400;
-    text-decoration: none;
-}
 
 .container {
     position: absolute;
