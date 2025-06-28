@@ -49,13 +49,13 @@
                     <div class="footer-widget-box list">
                         <h4 class="footer-widget-title">Useful Links</h4>
                         <ul class="footer-list list-unstyled">
-                            <li><a href="https://bbmku.ac.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>BBMKU</a></li>
-                            <li><a href="https://www.jceceb.org.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>JCECEB</a></li>
+                            <li><a href="https://bbmku.ac.in/index" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>BBMKU</a></li>
+                            <li><a href="https://jceceb.jharkhand.gov.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>JCECEB</a></li>
                             <li><a href="https://jacexamportal.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>JAC</a></li>
                             <li><a href="https://ekalyan.cgg.gov.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>E-Kalyan</a></li>
-                            <li><a href="https://ncte.gov.in/website/index.aspx" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>NCTE</a></li>
-                            <li><a href="https://aishe.nic.in/aishe/home" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>AISHE</a></li>
-                            <li><a href="https://www.ugc.gov.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>UGC</a></li>
+                            <li><a href="https://ncte.gov.in/website/ERC.aspx" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>NCTE</a></li>
+                            <li><a href="https://aishe.gov.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>AISHE</a></li>
+                            <li><a href="  https://www.ugc.gov.in/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>UGC</a></li>
                             <li><a href="https://jshe.researchculturesociety.org/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>JSHE</a></li>
                             <li><a href="http://naac.gov.in/index.php/en/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>NAAC</a></li>
                             <li><a href="https://ncte.gov.in/par/" class="text-light text-decoration-none"><i class="fas fa-caret-right me-2"></i>PAR</a></li>

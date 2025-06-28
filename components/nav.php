@@ -454,7 +454,7 @@
                     <div class="header-top-left">
                         <div class="header-top-social">
                             <span>Follow Us: </span>
-                            <a href="#"><i class="bi bi-facebook"></i></a>
+                            <a href="https://www.facebook.com/profile.php?id=61577356967594"><i class="bi bi-facebook"></i></a>
                             <a href="#"><i class="bi bi-instagram"></i></a>
                             <a href="#"><i class="bi bi-youtube"></i></a>
                             <a href="#"><i class="bi bi-linkedin"></i></a>
@@ -570,13 +570,7 @@
                                                 <li><a class="dropdown-item" href="student.php?id=deled">D.El.Ed.</a></li>
                                             </ul>
                                         </li>
-                                        <li class="dropdown-submenu">
-                                            <a class="dropdown-item dropdown-toggle" href="#">Fees Structure</a>
-                                            <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" href="student.php?id=bed">B.Ed.</a></li>
-                                                <li><a class="dropdown-item" href="student.php?id=deled">D.El.Ed.</a></li>
-                                            </ul>
-                                        </li>
+                                       
                                          
                                         <li><a class="dropdown-item" href="academics.php?id=academic_calendar">Academic Calendar</a></li>
                                         <li><a class="dropdown-item" href="academics.php?id=how">How to Apply</a></li>
@@ -596,7 +590,7 @@
                                           <li><a class="dropdown-item" href="facilities.php?id=non-teaching">Non-Teaching  Staff</a></li>
                                         <li><a class="dropdown-item" href="facilities.php?id=conference">Conference</a></li>
                                         <li><a class="dropdown-item" href="facilities.php?id=workshop">Workshop and Seminar</a></li>
-                                        <li><a class="dropdown-item" href="facilities.php?id=infrastructure">Infrastructure</a></li>
+                                       
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown">
@@ -634,6 +628,14 @@
                                                 <li><a class="dropdown-item" href="student.php?id=ebook">Ebook</a></li>
                                             </ul>
                                         </li>
+                                         <li class="dropdown-submenu">
+                                            <a class="dropdown-item dropdown-toggle" href="#">Fees Structure</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a class="dropdown-item" href="student.php?id=bed">B.Ed.</a></li>
+                                                <li><a class="dropdown-item" href="student.php?id=deled">D.El.Ed.</a></li>
+                                            </ul>
+                                        </li>
+                                         <li><a class="dropdown-item" href="facilities.php?id=infrastructure">Infrastructure</a></li>
                                         <li><a class="dropdown-item" href="downloads.php">Downloads</a></li>
                                              <li><a class="dropdown-item" href="affidavit.php">Affidavit</a></li>
                                         <li><a class="dropdown-item" href="rulesRegulation.php">Rules & Regulations</a></li>
