@@ -549,7 +549,7 @@
                                         <li><a class="dropdown-item" href="about.php?id=map">College Map</a></li>
                                         <li><a class="dropdown-item" href="about.php?id=hol-list">Holiday List</a></li>
                                         <li><a class="dropdown-item" href="about.php?id=aff">Affliation</a></li>
-                                        <!--<li><a class="dropdown-item" href="about.php?id=fac">Faculty</a></li>-->
+                                        
                                     </ul>
                                 </li>
                                       <li class="nav-item dropdown">
@@ -635,6 +635,7 @@
                                                 <li><a class="dropdown-item" href="student.php?id=deled">D.El.Ed.</a></li>
                                             </ul>
                                         </li>
+                                        <li><a class="dropdown-item" href="facilities.php?id=teaching">Faculty</a></li>
                                          <li><a class="dropdown-item" href="facilities.php?id=infrastructure">Infrastructure</a></li>
                                         <li><a class="dropdown-item" href="downloads.php">Downloads</a></li>
                                              <li><a class="dropdown-item" href="affidavit.php">Affidavit</a></li>
